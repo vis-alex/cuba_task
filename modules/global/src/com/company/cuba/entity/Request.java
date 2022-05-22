@@ -8,7 +8,7 @@ import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 import java.util.List;
 
-@Table(name = "CUBA_REQUEST")
+@Table(name = "REQUEST")
 @Entity(name = "cuba_Request")
 @NamePattern("%s|id")
 public class Request extends BaseLongIdEntity {
