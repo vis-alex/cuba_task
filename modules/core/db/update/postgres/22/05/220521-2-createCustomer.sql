@@ -1,0 +1,1 @@
+create index IDX_CUBA_CUSTOMER_NAME on CUSTOMER (NAME);

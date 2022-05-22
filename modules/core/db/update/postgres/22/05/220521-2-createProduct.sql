@@ -1,0 +1,1 @@
+create index IDX_CUBA_PRODUCT_NAME on PRODUCT (NAME);
