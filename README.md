@@ -1,4 +1,5 @@
 # cuba_task
+Test task for interview.  
 Simple CUBA project for creating requests.  
 Task : Generate master detail screens for Product, Customer, Supplier, Request entities.
 Create an application using these screens.  
